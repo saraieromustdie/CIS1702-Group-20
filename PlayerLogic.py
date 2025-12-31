@@ -1,3 +1,6 @@
+from inventory_manager import Inventory
+inventory = Inventory()
+
 def MoveUp(PlayerLocation,map):
     '''Moves the player up one space on the map'''
     
